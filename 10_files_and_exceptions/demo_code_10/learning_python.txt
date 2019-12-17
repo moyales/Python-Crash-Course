@@ -1,0 +1,6 @@
+In Python you can use recursion
+In Python you can use for loops instead and make yourself not want to die
+In Python you can provide user input for interactive programs
+In Python you can convert numbers to binary with dumb rules
+In Python you can create dictionaries
+In Python you can work with lists
